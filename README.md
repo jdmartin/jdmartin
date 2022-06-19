@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🧙‍♂️
+
+![ZorkPrompt](https://user-images.githubusercontent.com/1966209/174480747-85c16df2-43a1-4438-a0f6-1e413ee239c8.gif)
+
 
 <!--
 **jdmartin/jdmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
